@@ -15,6 +15,7 @@
 ### Converter
 * [Converters from LaTeX to PC Textprocessors](http://www.tug.org/utilities/texconv/textopc.html) - page on TeX Users Group site.
 * [Converters from PC Textprocessors to LaTeX](http://www.tug.org/utilities/texconv/pctotex.html) - page on TeX Users Group site.
+* [rtf2latex2e](https://sourceforge.net/projects/rtf2latex2e/) - a program that translates RTF (rich text format) files into LaTeX files. It translates text formatting, tables, figures, and equations. The resulting LaTeX files are intended to be quite readable and suitable for editing.
 * [Word-to-LaTeX](http://www.wordtolatex.com/) - tool to convert any Microsoft Word document to LaTeX, TeX, or clean XML.
 
 ### Resource
