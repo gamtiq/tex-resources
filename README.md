@@ -21,3 +21,12 @@
 ### Resource
 * [CTAN - The Comprehensive TeX Archive Network](https://ctan.org/) - the central place for all kinds of material around TeX.
 * [TeX Resources on the Web](https://www.tug.org/interest.html) - page on TeX Users Group site.
+
+### LaTeX documentation
+* [Getting started with TeX, LaTeX, and friends](http://tug.org/begin.html)
+* [LaTeX Documentation Pointers](https://ctan.org/pkg/latex-doc-ptr) - references to on-line documentation of LaTeX.
+* [LaTeX Cheat Sheet](http://wch.github.io/latexsheet/) - a latex reference sheet which is geared toward writing scientific papers.
+* LaTeX2e unofficial reference manual: [HTML](http://mirror.ctan.org/info/latex2e-help-texinfo/latex2e.html), [PDF and others](https://ctan.org/pkg/latex2e-help-texinfo).
+* [beginlatex – A beginner's guide to LaTeX](https://www.ctan.org/pkg/beginlatex)
+* [first-latex-doc – A document for absolute LaTeX beginners](https://ctan.org/pkg/first-latex-doc)
+* [latex2e-help-texinfo – Unofficial reference manual covering LaTeX2ε](https://ctan.org/pkg/latex2e-help-texinfo)
